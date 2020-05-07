@@ -1,0 +1,8 @@
+//símbolos pro visualg
+
+[<-] - [=]
+[%] - resto da divisão
+[//] - quer dizer que o texto não será compilado no programa
+
+obs.: quando usar caractere, atribuir as respostas do usuario a uma variavel! dialogos se fazem com VARIÁVEIS!
+	use respostas com aspas[""]

@@ -1,0 +1,25 @@
+//simbolos Linguagem C
+
+[==] - comparação
+[!=] - diferente de
+[||] - ou
+[&&] - e
+[int] - inteiro
+[char] - caractere
+[a++] - incremento (a=a+1)
+[a--] - decremento (a=a-1)
+['a'] - usar para caracteres
+["a"] - usar para vetor/string
+[%d] - para inteiros
+[%c] - para caracteres
+[%f] - para reais
+[%.xf] - para aproximar o número para x casas num valor real
+
+String:
+usar [gets (string)] ao invés de scanf
+[strcpy(s1,s2);] - copia s2 em s1 e termina = 0
+[x=strcmp(s1,s2);] - compara s2 a s1, se iguais x=0
+[strcat(s1,s2);] - junta s2 em s1
+[x=strlen(s1,s2);] - dá o tamanho de caracteres das strings
+[x=strchr(s1,ch);] - x!=0 se existir o char, x==0 se não existir
+[x=strstr(s1,s2);] - x!=0 se s2 existir e s1, x==0 se existir
